@@ -13,3 +13,5 @@
 5. Realizar um Pull Request e Merge; [ ] 
 
 7. Criar nosso primeiro Fork; [ ] 
+
+8. opção de testes de modificações; [ ]
